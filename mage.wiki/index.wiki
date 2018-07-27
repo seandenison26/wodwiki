@@ -1,0 +1,81 @@
+
+= Campaign = 
+
+	== DM Notes ==
+	
+		The of the largest silver mines in the world are in Mexico
+		
+	== Logs ==
+		
+	Powerline will send the phones to every Glass Walker in the city she can and have them put their own program code, text, into [[it.]] 
+
+	[[Seesion Log|7/21]] 
+
+
+
+	=== Current Questions ===
+
+	What were Carson and the Moonlight Riders discussing in High Voltage?
+	What exactly is Sister Sally?
+	Was it bad for Powerline to just give away those fetishes? Technically she gave them to another Glass Walker, and received a Gnosis for them.
+	How to deal with the net spirit?
+
+= Setting =
+
+	== Characters ==
+		
+		=== Player Characters ===
+		=== Non-Player Characters ===
+			=== Antagonists ===
+			=== Garou ===
+			=== Spirits ===
+	== History ==
+
+		Colorado River floods much of the Yuma Valley.
+
+		Tesla had a workshop in Colorado Springs
+
+	== Factions ==
+		
+		=== Wyld === 
+			=== Septs ===	
+				[[setting/factions/wyld/septs/sacred_peak|Sept of The Sacred Peak]]
+				[[setting/factions/wyld/septs/ringing_bell|Sept of The Ringing Bell]]
+		=== Leeches ===
+
+			Prince: Edward Williams, 7th Generation Troubadour
+	
+	== Fetishes ==
+	
+		[[setting/fetishes/wyrmrusher_leash|Wyrmrushers Leash]]
+			
+	== Locations == 	
+	
+
+	== Tribes == 
+
+		=== [[setting/tribes/silver_fangs|Silver Fangs]] ===
+		=== [[setting/tribes/shadow_lords|Shadow Lords]] ===
+		=== [[setting/tribes/glass_walkers|Glass Walkers]] ===
+		=== [[setting/tribes/get_of_fenris|Get of Fenris]] ===
+		=== [[setting/tribes/fianna|Fianna]] ===
+		=== [[setting/tribes/bone_gnawers|Bone Gnawers]] ===
+		=== [[setting/tribes/red_talons|Red Talons]] ===
+		=== [[setting/tribes/children_of_gaia|Children of Gaia]] ===
+		=== Uktena ===
+		=== Children of Gaia ===
+		=== Silent Strider ===
+		=== Wndigo===
+		
+= System = 
+
+
+
+ 
+
+
+
+
+
+
+
