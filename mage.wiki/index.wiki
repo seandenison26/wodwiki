@@ -1,74 +1,110 @@
 
-= Campaign = 
+= MAGE WIKI = 
+
+= Campaigns = 
 
 	== DM Notes ==
-	
-		The of the largest silver mines in the world are in Mexico
+
+		Both the Church and the Hermetics are actively working to limit the spread of language and knowledge.
+
+		Lands of Prester John - Mythological King said to have been descended from the Three Magi.
+		
+		War is constant and changing every decade.
+		
+		Franciscans went after the Jews the most. 
+
 		
 	== Logs ==
-		
-	Powerline will send the phones to every Glass Walker in the city she can and have them put their own program code, text, into [[it.]] 
 
-	[[Seesion Log|7/21]] 
-
-
+	[[Sesion Log|7/21]] 
 
 	=== Current Questions ===
-
-	What were Carson and the Moonlight Riders discussing in High Voltage?
-	What exactly is Sister Sally?
-	Was it bad for Powerline to just give away those fetishes? Technically she gave them to another Glass Walker, and received a Gnosis for them.
-	How to deal with the net spirit?
 
 = Setting =
 
 	== Characters ==
-		
 		=== Player Characters ===
+
+		Kieran 
+			Concept: Entropy/Time - A Prophecy Breakers, believes things to be fated but wants to unmake that which is Fated. Seer of Chronos	
+			Wonder: Slave
+			Antagonist: Prophecy writer? Statitician? Playwright?
+		Angel
+			Concept: Life - 
+		
+		Glenn
+		
+		Dani
+
+		Matt 
+		
+		
+		
 		=== Non-Player Characters ===
-			=== Antagonists ===
-			=== Garou ===
-			=== Spirits ===
+		
+		[[sessions/characters/npc/chef_magic|Chef Seer of Chronos]]
+		Order of Reason Musician who can literally hear the "Music of the Spheres", listens intently to the very vibrations of exsistence. Prime/Forces/Mind.
+
+		=== Antagonists ===
+
+		=== Spirits ===
+		
 	== History ==
+	
+	[[setting/history/slavery|Slavery]]
 
-		Colorado River floods much of the Yuma Valley.
+	Beginning of an actual middle class.
+	
+	Explore French Humanism?
+	
+	By 1500 Western European printing presses had produced over 20 million volumes.
 
-		Tesla had a workshop in Colorado Springs
+	Ergot causes visions. 
+	
+	Country Morris Dancing
+	
+	Dowsing is just a thing.
 
+	Mage who builds an Inn that attract a small town around it within a couple of years. Maybe around a Cray?
+	
 	== Factions ==
+	
+		=== Mages ===
 		
-		=== Wyld === 
-			=== Septs ===	
-				[[setting/factions/wyld/septs/sacred_peak|Sept of The Sacred Peak]]
-				[[setting/factions/wyld/septs/ringing_bell|Sept of The Ringing Bell]]
-		=== Leeches ===
-
-			Prince: Edward Williams, 7th Generation Troubadour
+		Ngoma
+		Sisters of Hippolyta
+		
+		 Group of armed guards for a pack train.
+		 
+		 
+		 Older Hermetics are very upset that ancient secret knowledge can be just anybodies. Actively work to limit the paper inudstry? 
+		 Church actively fights the translation of the Bible to keep the word of God for just the clergy.
+		 
+		 The Actor's Guild
+		 
+		 Monti Di Pieta, Malta - Grand Financiers Base? 
+		 
 	
-	== Fetishes ==
-	
-		[[setting/fetishes/wyrmrusher_leash|Wyrmrushers Leash]]
+		=== Traditions ===
+		
+		=== Order of Reason === 
+		
+			Coisian that focuses on bees?
 			
-	== Locations == 	
-	
 
-	== Tribes == 
+			Herbalists
 
-		=== [[setting/tribes/silver_fangs|Silver Fangs]] ===
-		=== [[setting/tribes/shadow_lords|Shadow Lords]] ===
-		=== [[setting/tribes/glass_walkers|Glass Walkers]] ===
-		=== [[setting/tribes/get_of_fenris|Get of Fenris]] ===
-		=== [[setting/tribes/fianna|Fianna]] ===
-		=== [[setting/tribes/bone_gnawers|Bone Gnawers]] ===
-		=== [[setting/tribes/red_talons|Red Talons]] ===
-		=== [[setting/tribes/children_of_gaia|Children of Gaia]] ===
-		=== Uktena ===
-		=== Children of Gaia ===
-		=== Silent Strider ===
-		=== Wndigo===
+		=== Disparates ===
 		
+	=== Leeches ===
+	
+	== Magic Items ==
+	
+	== Locations == 	
+
 = System = 
 
+	Searching - Ask are you rolling Awareness, Alertness, of Arete?
 
 
  
