@@ -4,41 +4,51 @@
 = Campaigns = 
 
 	== DM Notes ==
+	
+		[[Tuesday Pitch]]
 
 		Both the Church and the Hermetics are actively working to limit the spread of language and knowledge.
 
 		Lands of Prester John - Mythological King said to have been descended from the Three Magi.
-		
+
 		War is constant and changing every decade.
-		
+
 		Franciscans went after the Jews the most. 
 
-		
-	== Logs ==
+		[[The Plern]]		
+		[[Online Game]]
 
-	[[Sesion Log|7/21]] 
+	== Logs ==
+	
+	== Plot Hooks ==
+	
+		Villiage that has gone through numerous Priests, Pagan rites of some sort?
+
+		[[Sesion Log|7/21]] 
 
 	=== Current Questions ===
 
 = Setting =
 
 	== Characters ==
-		=== Player Characters ===
 
+		=== Player Characters ===
+		In Group Game
+			
+		
 		Kieran 
-			Concept: Entropy/Time - A Prophecy Breakers, believes things to be fated but wants to unmake that which is Fated. Seer of Chronos	
+			Concept: Entropy/Time - A Prophecy Breakers, believes things to be fated but wants to unmake that which is Fated. Seer of Chronos
 			Wonder: Slave
 			Antagonist: Prophecy writer? Statitician? Playwright?
 		Angel
-			Concept: Life - 
-		
+			Concept: Life/Spirit/Matter - Alchemist, possible Solficati. 
 		Glenn
-		
+			Science based-mage, believes all should be enlightened regardless 
 		Dani
-
+			Jewish, most likey has crypto-jewish family.
 		Matt 
-		
-		
+				
+		Zeke
 		
 		=== Non-Player Characters ===
 		
@@ -51,7 +61,10 @@
 		
 	== History ==
 	
+	[[setting/history/urbino|The City Of Urbino]]
 	[[setting/history/slavery|Slavery]]
+	Crypo Judaism
+		Gracia Mendes Nasi - Jeiwsh woman significant of escorting jews during the Inquisition
 
 	Beginning of an actual middle class.
 	
@@ -71,34 +84,43 @@
 	
 		=== Mages ===
 		
-		Ngoma
-		Sisters of Hippolyta
-		
-		 Group of armed guards for a pack train.
-		 
-		 
-		 Older Hermetics are very upset that ancient secret knowledge can be just anybodies. Actively work to limit the paper inudstry? 
-		 Church actively fights the translation of the Bible to keep the word of God for just the clergy.
-		 
-		 The Actor's Guild
-		 
-		 Monti Di Pieta, Malta - Grand Financiers Base? 
-		 
+			=== Traditions ===
+
+			Ngoma
+			Sisters of Hippolyta
+			
+			[[The Hermetic Philosophy]]
+			
+			 Group of armed guards for a pack train.
+			 
+			 Older Hermetics are very upset that ancient secret knowledge can be just anybodies. Actively work to limit the paper inudstry? 
+			 Church actively fights the translation of the Bible to keep the word of God for just the clergy.
+			 
+			 The Actor's Guild
+			 
+			 Monti Di Pieta, Malta - Grand Financiers Base? 
+			 
+			 Guilds are basically unions, definitely instituitions of power.
 	
-		=== Traditions ===
+			
 		
-		=== Order of Reason === 
+			=== Order of Reason === 
 		
 			Coisian that focuses on bees?
 			
+			Surgeon who is actually an Artificer, not a Coisian. Believes the human body is nothing more than a machine.
 
 			Herbalists
 
-		=== Disparates ===
+			=== Disparates ===
+			
+		=== Other Supernaturals ===	
+			=== Leeches ===
+		=== Mortal Institutions ===	
 		
-	=== Leeches ===
+		
 	
-	== Magic Items ==
+	== Wonders ==
 	
 	== Locations == 	
 
